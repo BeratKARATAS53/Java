@@ -1,0 +1,7 @@
+IntegrateReimann Func1 3 11 100
+IntegrateReimann Func1 3 11 10
+IntegrateReimann Func2 3 11 10
+IntegrateReimann Func2 4 9 100
+IntegrateReimann Func3 0.4 0.7 10
+Arcsinh 0.3
+Armstrong 4
