@@ -1,0 +1,2 @@
+There is a problem with clustering in my homework. He only places the nearest two in a cluster. So each vertex has 2 vertices.
+This is already considered to be clustered, but the k value must be equal to the number of lines in the "word_pairs" file.
